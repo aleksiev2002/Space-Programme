@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8TKz3sMKFxktdTOoQsnbGyFEzF6L4ULtuGNuX3AchRd63DsG0KZVGlp8lQTRu7jsJuEmGVkObMmJzYWfs59Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksiev\\RiderProjects\\demo\\Hitachi\\Hitachi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksiev\\.nuget\\packages\\csv\\2.0.93\\csv.2.0.93.nupkg.sha512",
+    "C:\\Users\\Aleksiev\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
